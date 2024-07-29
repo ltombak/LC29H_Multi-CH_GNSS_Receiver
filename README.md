@@ -25,7 +25,9 @@ id/pw: esa/estec
 
 ### Then set the correct date (UTC)
 `sudo date MMJJHHMMYYYY.ss`
+
 example command: `sudo date 071610392024.20`
+
 output: `Tue 16 Jul 10:39:20 CEST 2024`
 
 ### Go to the Documents/GNSS_logger directory
