@@ -6,11 +6,11 @@ Implementation of a logging platform for multiple GNSS receivers.
 
 ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-
+```
+test
+```
 
 ## Documentation
 
@@ -21,6 +21,7 @@ The output is UART connected to a 2 channel UART to Ethernet module. This one is
 These 4CH boards are to be connected to a network switch to be acessed all at once. The Python logger script can be executed on any computer connected to the 192.168.50.xx network, in this use-case it is executed on a Raspberry-Pi.
 
 ## User-guide
+
 ### First connect to the RPi via SSH protocol
 ipaddress: 192.168.50.2
 id/pw: esa/estec
