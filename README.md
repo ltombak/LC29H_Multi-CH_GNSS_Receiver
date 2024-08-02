@@ -37,11 +37,11 @@ cd Documents/GNSS_logger/
 screen -S log_gnss
 ```
 
-### Launch the logging process and confirm (specify the execution time using one of these commands (by default the execution time is 1min):
+### Launch the logging process and confirm (specify the execution time using one of these commands (by default the execution time is 1min)):
 ```
-python logger_multi_receiver_v1.7.1.py --execution_time_s 10
-python logger_multi_receiver_v1.7.1.py --execution_time_min 10
-python logger_multi_receiver_v1.7.1.py --execution_time_h 10
+python logger_multi_receiver_v1.8.0.py --execution_time_s 10
+python logger_multi_receiver_v1.8.0.py --execution_time_min 10
+python logger_multi_receiver_v1.8.0.py --execution_time_h 10
 ```
 
 **Wait for all the servers to be connected then hit enter.**
